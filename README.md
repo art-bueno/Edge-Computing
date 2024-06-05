@@ -32,5 +32,8 @@ O objetivo principal deste projeto é fornecer uma ferramenta de monitoramento e
 Este projeto de monitoramento de qualidade da água com Arduino é uma ferramenta poderosa para ajudar na luta contra a poluição dos oceanos, rios e lagos. A The Ocean Cleanup pode usar este dispositivo para monitorar a eficácia de suas operações e garantir um ambiente aquático mais limpo e saudável.
 
 
+
+LINK PARA TINKERCAD: https://www.tinkercad.com/things/gb9gXt4tGDF-exquisite-bruticus/editel?sharecode=_Ko4gkrT3r9Mgwy-KbB-IcGEvz162dAaoJRukR36WSI
+
 Arthur Bueno de Oliveira - RM558396
 Victor Marcos Magdaleno - RM556729
