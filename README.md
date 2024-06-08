@@ -33,7 +33,7 @@ Este projeto de monitoramento de qualidade da água com Arduino é uma ferrament
 
 
 
-LINK PARA TINKERCAD: https://www.tinkercad.com/things/gb9gXt4tGDF-exquisite-bruticus/editel?sharecode=ecMhc0tyBfYveeGYGSoMq3xLPXLXmddBWsBZ9gP98sQ
+LINK PARA TINKERCAD: https://www.tinkercad.com/things/gb9gXt4tGDF-exquisite-bruticus
 
 Arthur Bueno de Oliveira - RM558396
 Victor Marcos Magdaleno - RM556729
